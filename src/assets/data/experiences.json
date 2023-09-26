@@ -9,9 +9,9 @@
         "logo": "assets/template/experience/logo/facil-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
-                "city": "Uberaba",
-                "country": "Brasil",
+                "language": "cn",
+                "city": "新加坡",
+                "country": "新加坡",
                 "role": "Estágio Webmaster",
                 "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
             },
@@ -91,7 +91,7 @@
         "logo": "assets/template/experience/logo/deevo-logo.png",
         "internationalizations": [
             {
-                "language": "pt",
+                "language": "cn",
                 "city": "São Paulo",
                 "country": "Brasil",
                 "role": "Desenvolvedor Mobile",
